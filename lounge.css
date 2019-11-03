@@ -8,8 +8,8 @@ p {
 }
 h1,h2{
   color: #E9967A;
-  text-decoration: blink;
 }
+
 p.greentea{
   color: green;
 
@@ -47,4 +47,8 @@ img.maroon_tea_img{
 em{
   color: red;
   text-decoration: underline;
+}
+.head2{
+  border-bottom: 3px solid gray;
+  border-top: 3px solid gray;
 }
