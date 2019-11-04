@@ -10,36 +10,9 @@ h1,h2{
   color: #E9967A;
   font-family: "Trebuchet MS", sans-serif;
 }
-
-p.greentea{
-  color: green;
-
-}
-p.bluetea{
-  color: blue;
-}
-p.purpletea{
-  color: purple;
-}
 .headcl{
   color: #008B8B;
   border-bottom: 2px solid gray;
-}
-img.green_tea_img{
-  border-bottom: 3px solid green;
-  margin-left: 5%;
-}
-img.blue_tea_img{
-  border-bottom: 3px solid blue;
-  margin-left: 5%;
-}
-img.purple_tea_img{
-  border-bottom: 3px solid purple;
-  margin-left: 5%;
-}
-img.maroon_tea_img{
-  border-bottom: 3px solid maroon;
-  margin-left: 5%;
 }
 .specials{
   color: gray;
